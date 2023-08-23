@@ -2,7 +2,7 @@
 
 <img src="/icon.png" width="25%" />
 
-# Godot Git Plugin
+# Godot Git Plugin 4.1 i hope
 
 Git implementation of the Godot Engine VCS interface in Godot. We use [libgit2](https://libgit2.org) as our backend to simulate Git in code.
 
